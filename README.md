@@ -1,5 +1,5 @@
-README
-Introduction
+### README
+###Introduction
 This Python script is designed to scrape product information from the FPTShop website (https://fptshop.com.vn/may-tinh-xach-tay) using Selenium and BeautifulSoup libraries. It automates the process of clicking the "Xem thêm" (Load More) button to retrieve all available products and extracts their names and prices.
 
 Prerequisites
